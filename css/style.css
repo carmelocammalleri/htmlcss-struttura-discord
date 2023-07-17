@@ -100,7 +100,7 @@ header{
 
 .image{
   background-color: orange;
-  width: 40%;
+  width: calc(100% - 60%);
   padding: 20px;
 }
 
@@ -118,13 +118,19 @@ header{
 
     /* jumbo section */
 
-.text .jumbo{
-  
+.text-jumbo{
+  text-align: center;
+}
+
+.image-bottom{
+  width: 200px;
+  background-color: #255EE9;
 }
 
 .bottom-section{
   text-align: center;
 }
+
 .bottom-section h2{
   padding: 30px;
 }
