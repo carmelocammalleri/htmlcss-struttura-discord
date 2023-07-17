@@ -68,6 +68,8 @@ header{
 
 /* main */
 
+  /* prima sezione */
+
 .jumbotron{
 
 }
@@ -75,13 +77,17 @@ header{
 .paragrafo{
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+  padding: 20px;
 }
 
 .box-sec{
   background-color: brown;
-  height: 300px;
   width: 600px;
+  text-align: center;
 }
+
+  /* /prima sezione */
 
 .img-text{
   height: 300px;
