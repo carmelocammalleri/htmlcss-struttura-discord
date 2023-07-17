@@ -16,7 +16,7 @@
 }
 
 .white{
-  background-color: #255EE9;
+  background-color: white;
   padding: 20px;
 }
 
@@ -87,12 +87,17 @@ header{
 /* footer */
 
 .box-footer{
-  justify-content: space-between;
+  justify-content: space-evenly;
+  color: white;
   height: 200px;
 }
 
 .social{
   width: 20%;
+}
+
+.small-box{
+  border: 1px solid white;
 }
 
 .bottom-button{
