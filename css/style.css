@@ -10,15 +10,31 @@ header{
 
 .container{
   width: 800px;
-  height: 120px;
+  height: 120px; /*da rimuovere*/
   margin: 0 auto;
-  display: flex;
 }
 
 .flex{
-  flex-direction: row;
+  display: flex;
+}
+
+.box-header{
   align-items: center;
+  background-color: yellow;
+  height: 100px;
   justify-content: space-between;
+}
+
+.logo,.menu,.botton-sign{
+  border: 1px solid black;
+}
+
+.menu{
+  text-align: center;
+}
+
+.botton-sign{
+  text-align: right;
 }
 
 
