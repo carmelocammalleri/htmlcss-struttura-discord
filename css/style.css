@@ -123,8 +123,9 @@ header{
 }
 
 .image-bottom{
-  width: 200px;
+  width: 500px;
   background-color: #255EE9;
+  margin: 0 auto;
 }
 
 .bottom-section{
