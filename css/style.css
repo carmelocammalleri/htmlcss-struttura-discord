@@ -68,7 +68,7 @@ header{
 
 /* main */
 
-  /* prima sezione */
+  /* jumbotron */
 
 .jumbotron{
   background-color: #255EE9;
@@ -87,9 +87,9 @@ header{
   text-align: center;
 }
 
-    /* /prima sezione */
+    /* /jumbotron */
 
-    /* seconda sezione */
+    /* img-text section */
 
 .img-text{
   height: 300px;
@@ -98,12 +98,23 @@ header{
 .image{
   background-color: orange;
   width: 40%;
+  padding: 20px;
 }
 
 .text{
   background-color: olivedrab;
   width: 60%;
+  padding: 20px;
 }
+
+.sec-title{
+  font-size: 2rem;
+}
+
+    /* img-text section */
+
+    
+
 
 .jumbo{
   background-color: brown;
