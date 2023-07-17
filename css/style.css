@@ -6,21 +6,25 @@
   box-sizing: border-box;
 }
 
-header{
-  background-color: blue;
-}
-
 .container{
   width: 800px;
-  height: 120px; /*da rimuovere*/
   margin: 0 auto;
+  background-color: aqua;
 }
 
 .flex{
   display: flex;
 }
 
+.white{
+  background-color: aqua;
+}
+
 /* header */
+
+header{
+  background-color: blue;
+}
 
 .box-header{
   align-items: center;
@@ -43,5 +47,13 @@ header{
 
 /* main */
 
-section
+.paragrafo{
+  align-items: center;
+  justify-content: center;
+}
 
+.box-sec{
+  background-color: brown;
+  height: 300px;
+  width: 600px;
+}
