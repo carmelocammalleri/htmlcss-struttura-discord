@@ -44,16 +44,8 @@ header{
   justify-content: space-between;
 }
 
-.logo,.menu,.botton-sign{
+.logo,.menu,.button-sign{
   border: 1px solid black;
-}
-
-.menu{
-  text-align: center;
-}
-
-.botton-sign{
-  text-align: right;
 }
 
 /* main */
@@ -93,4 +85,17 @@ header{
 
 .box-footer{
   justify-content: space-between;
+  height: 200px;
+}
+
+.social{
+  width: 20%;
+}
+
+.bottom-button{
+  justify-content: space-between;
+  align-items: center;
+  background-color: blue;
+  border-top: 1px solid lightslategray;
+  height: 100px;
 }
