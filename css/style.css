@@ -21,12 +21,4 @@ header{
   justify-content: space-between;
 }
 
-.container .menu{
-  height: 100px;
-}
 
-#logo,.botton-sign{
-  width: 100px;
-  height: 100px;
-  background-color: yellow;
-}
