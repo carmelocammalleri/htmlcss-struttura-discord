@@ -18,10 +18,12 @@
 
 .white{
   background-color: aqua;
+  padding: 20px;
 }
 
 .gray{
   background-color: blueviolet;
+  padding: 20px;
 }
 
 /* header */
@@ -60,13 +62,18 @@ header{
   background-color: brown;
   height: 300px;
   width: 600px;
-  margin: 20px;
+}
+
+.img-text{
+  height: 300px;
 }
 
 .image{
-
+  background-color: orange;
+  width: 40%;
 }
 
 .text{
-  
+  background-color: olivedrab;
+  width: 60%;
 }
