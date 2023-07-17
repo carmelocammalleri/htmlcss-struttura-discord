@@ -38,7 +38,6 @@ header{
 
 .box-header{
   align-items: center;
-  background-color: yellow;
   height: 100px;
   justify-content: space-between;
 }
@@ -46,10 +45,6 @@ header{
 .menu li{
   list-style: none;
   display: inline;
-}
-
-.logo,.menu,.button-sign{
-  border: 1px solid black;
 }
 
 /* main */
