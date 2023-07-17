@@ -91,3 +91,6 @@ header{
 
 /* footer */
 
+.box-footer{
+  justify-content: space-between;
+}
