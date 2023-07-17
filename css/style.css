@@ -20,6 +20,10 @@
   background-color: aqua;
 }
 
+.gray{
+  background-color: blueviolet;
+}
+
 /* header */
 
 header{
@@ -56,4 +60,13 @@ header{
   background-color: brown;
   height: 300px;
   width: 600px;
+  margin: 20px;
+}
+
+.image{
+
+}
+
+.text{
+  
 }
