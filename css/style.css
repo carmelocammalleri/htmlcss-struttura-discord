@@ -67,7 +67,9 @@ header{
 
 /* /header */
 
-/* main */
+
+/* ----------------main---------------- */
+
 
   /* jumbotron */
 
@@ -120,7 +122,15 @@ header{
   
 }
 
+.bottom-section{
+  text-align: center;
+}
+.bottom-section h2{
+  padding: 30px;
+}
     /* /jumbo section */
+
+/* ----------------/main---------------- */
 
 /* footer */
 
