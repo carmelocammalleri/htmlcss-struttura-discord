@@ -77,3 +77,9 @@ header{
   background-color: olivedrab;
   width: 60%;
 }
+
+.jumbo{
+  background-color: brown;
+  width: 100%;
+  height: 500px;
+}
