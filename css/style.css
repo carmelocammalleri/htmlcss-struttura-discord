@@ -71,7 +71,7 @@ header{
   /* prima sezione */
 
 .jumbotron{
-
+  background-color: #255EE9;
 }
 
 .paragrafo{
@@ -87,7 +87,9 @@ header{
   text-align: center;
 }
 
-  /* /prima sezione */
+    /* /prima sezione */
+
+    /* seconda sezione */
 
 .img-text{
   height: 300px;
