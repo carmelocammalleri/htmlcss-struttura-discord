@@ -119,7 +119,7 @@ header{
     /* jumbo section */
 
 .text-jumbo{
-  text-align: center;
+  justify-content: center;
 }
 
 .image-bottom{
