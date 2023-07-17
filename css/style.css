@@ -53,6 +53,12 @@ header{
   color: white;
 }
 
+.button-sign{
+  padding: 10px 15px;
+  border-radius: 20px 20px;
+  border: none;
+}
+
 /* main */
 
 .jumbotron{
