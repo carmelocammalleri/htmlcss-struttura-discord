@@ -62,6 +62,7 @@ header{
 
 .logo{
   border: 1px solid black;
+   color: white; /*da levare */
 }
 
 /* /header */
@@ -140,7 +141,6 @@ header{
 .bottom-button{
   justify-content: space-between;
   align-items: center;
-  background-color: blue;
   border-top: 1px solid lightslategray;
   height: 100px;
 }
