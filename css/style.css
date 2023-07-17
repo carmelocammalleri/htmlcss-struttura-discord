@@ -45,6 +45,12 @@ header{
 .menu li{
   list-style: none;
   display: inline;
+  margin: 15px;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: white;
 }
 
 /* main */
