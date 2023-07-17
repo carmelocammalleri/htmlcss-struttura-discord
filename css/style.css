@@ -43,6 +43,11 @@ header{
   justify-content: space-between;
 }
 
+.menu li{
+  list-style: none;
+  display: inline;
+}
+
 .logo,.menu,.button-sign{
   border: 1px solid black;
 }
