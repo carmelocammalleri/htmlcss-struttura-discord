@@ -7,9 +7,9 @@
 }
 
 .container{
-  width: 800px;
+  width: 98%;
   margin: 0 auto;
-  max-width: 90%;
+  max-width: 1200px;
 }
 
 .flex{
@@ -142,18 +142,25 @@ header{
 /* footer */
 
 .box-footer{
-  justify-content: space-evenly;
   color: white;
   height: 200px;
+  justify-content: space-around;
 }
 
 .social{
-  width: 20%;
-}
-
-.small-box{
+  width: 25%;
   border: 1px solid white;
 }
+
+.menu-box{
+  width: 75%;
+}
+
+.box-footer .col{
+  flex-basis: 25%;
+  border: 1px solid white;
+}
+
 
 .bottom-button{
   justify-content: space-between;
